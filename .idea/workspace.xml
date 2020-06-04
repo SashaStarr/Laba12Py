@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0973c5b6-eeef-4dd9-a7dc-1f64ea38a74f" name="Default Changelist" comment="" />
+    <list default="true" id="8b46cb74-01a9-4a8c-b385-acc60f638f53" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1c6E1pktfBaDD1YRBripYCwZDIt" />
+  <component name="ProjectId" id="1cHQVCauk0hdI2q0MbV74BV4W7N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,113 +22,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../labapy2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Python.AnimalManagerUtils">
-    <configuration name="AnimalManagerUtils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="labapy2" />
+  <component name="RunManager">
+    <configuration name="crud" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manager/AnimalManagerUtils.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crud.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Animals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="labapy2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/Animals.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Doctest AnimalManager.find_animals_by_classes" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="labapy2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/manager" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manager/AnimalManager.py" />
-      <option name="CLASS_NAME" value="AnimalManager" />
-      <option name="METHOD_NAME" value="find_animals_by_classes" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Doctests in AnimalManager (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="labapy2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/manager" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manager/AnimalManager.py" />
-      <option name="CLASS_NAME" value="AnimalManager" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Doctests in AnimalManager" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="labapy2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/manager" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manager/AnimalManager.py" />
-      <option name="CLASS_NAME" value="AnimalManager" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.AnimalManagerUtils" />
-        <item itemvalue="Python tests.Doctests in AnimalManager" />
-        <item itemvalue="Python tests.Doctest AnimalManager.find_animals_by_classes" />
-        <item itemvalue="Python tests.Doctests in AnimalManager (1)" />
-        <item itemvalue="Python.Animals" />
+        <item itemvalue="Python.crud" />
       </list>
     </recent_temporary>
   </component>
@@ -137,42 +58,62 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0973c5b6-eeef-4dd9-a7dc-1f64ea38a74f" name="Default Changelist" comment="" />
-      <created>1589840430291</created>
+      <changelist id="8b46cb74-01a9-4a8c-b385-acc60f638f53" name="Default Changelist" comment="" />
+      <created>1590183059362</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589840430291</updated>
+      <updated>1590183059362</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1591212498254">
+    <state x="460" y="120" key="FileChooserDialogImpl" timestamp="1591220258289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591212498254" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1591220364036">
+    <state x="460" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591220258289" />
+    <state width="661" height="259" key="GridCell.Tab.0.bottom" timestamp="1591220376053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591220364036" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1591220364036">
+    <state width="661" height="259" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591220376053" />
+    <state width="661" height="259" key="GridCell.Tab.0.center" timestamp="1591220376053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591220364036" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1591220364036">
+    <state width="661" height="259" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591220376053" />
+    <state width="661" height="259" key="GridCell.Tab.0.left" timestamp="1591220376053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591220364036" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1591220364036">
+    <state width="661" height="259" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591220376053" />
+    <state width="661" height="259" key="GridCell.Tab.0.right" timestamp="1591220376053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591220364036" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1591212505620">
+    <state width="661" height="259" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591220376053" />
+    <state width="1300" height="219" key="GridCell.Tab.1.bottom" timestamp="1590188580351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591212505620" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589957233493">
+    <state width="1300" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590188580351" />
+    <state width="1300" height="219" key="GridCell.Tab.1.center" timestamp="1590188580351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589957233493" />
+    <state width="1300" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590188580351" />
+    <state width="1300" height="219" key="GridCell.Tab.1.left" timestamp="1590188580351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1300" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590188580351" />
+    <state width="1300" height="219" key="GridCell.Tab.1.right" timestamp="1590188580351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1300" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590188580351" />
+    <state x="181" y="7" key="SettingsEditor" timestamp="1590348299126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="181" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590348299126" />
+    <state x="100" y="102" width="1160" height="526" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590335125307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="102" width="1160" height="526" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1590335125307" />
+    <state x="372" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591212176305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="372" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591212176305" />
   </component>
 </project>

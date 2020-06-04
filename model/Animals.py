@@ -17,7 +17,7 @@ class Animals:
     def __str__(self):
         name = 'Name: {}\n'.format(self.name)
         kind = 'kind: {}\n'.format(self.kind)
-        size_in_m = 'size_in_m: {}\n'.format(self.size_in_m)
+        size_in_m = 'size in m: {}\n'.format(self.size_in_m)
         weight_in_kg = 'weight in kg: {}\n'.format(self.weight_in_kg)
         point = 'point: {}\n'.format(self.point)
         age_in_years = 'age in years: {}\n'.format(self.age_in_years)
